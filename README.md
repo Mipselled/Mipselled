@@ -1,4 +1,4 @@
-Hey there! I'm @Mipselled. I'm 14 years old, and currently learning Rust.
+Hey there! I'm @Mipselled. I'm 15 years old, and currently learning Rust.
 If you want to reach out to me, you can contact me at:
  - mipselled@gmail.com
  - mipselled on [Discord](https://discord.com)
